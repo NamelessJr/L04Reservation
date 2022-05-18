@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L04Reservation</string>
+    <string name="make_reservation">Make Reservation</string>
+    <string name="Reset">Reset</string>
+    <string name="Submit">Submit</string>
+    <string name="Smoking">Smoking Area</string>
+    <string name="Choose">Choose Your Time and Date</string>
+</resources>
